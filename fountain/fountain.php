@@ -56,4 +56,6 @@ for($i=0; $i<=$amount; $i++)
 for($j=0; $j<=$amount; $j++)  
 	 echo $glasses[$i][$j],"   ";
     }
+	
+	//testtest
 ?>
